@@ -5,4 +5,5 @@ were used from the dataset. These images were used to train a deep Convolutional
 Neural Network for prediction of diseases on new crop images.
 
 Dataset
-It is present as a seperate repository under the name 'Plant Village'
+It is present as a seperate repository under the name 'Plant Village'.
+Link - https://github.com/sss41097/PlantVillage
